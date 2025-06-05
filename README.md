@@ -63,7 +63,7 @@ end
 endmodule
 ```
 
-Developed by: Bharath S RegisterNumber: 24900654
+Developed by: VASU VIGNESHWARAN P RegisterNumber: 212224220119
 
 **RTL LOGIC FOR FLIPFLOPS**
 
